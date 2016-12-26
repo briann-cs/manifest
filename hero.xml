@@ -23,7 +23,7 @@
 
   <!-- Hardware -->
   <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" />
-  <project path="hardware/samsung_slsi-cm/exynos" name="android_hardware_samsung_slsi-cm_exynos" remote="cm" />
+  <project path="hardware/samsung_slsi-cm/exynos" name="android_hardware_samsung_slsi-cm_exynos" remote="8890dev" />
   <project path="hardware/samsung_slsi-cm/exynos5" name="android_hardware_samsung_slsi-cm_exynos5" remote="cm" />
   <project path="hardware/samsung_slsi-cm/openmax" name="android_hardware_samsung_slsi-cm_openmax" remote="cm" />
   <project path="hardware/samsung_slsi-cm/exynos8890" name="android_hardware_samsung_slsi-cm_exynos8890" remote="8890dev" />
