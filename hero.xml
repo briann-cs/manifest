@@ -11,8 +11,7 @@
 	   review="review.lineageos.org" />
 
   <!-- Device Trees -->
-  <project path="device/samsung/universal8890" name="android_device_samsung_universal8890" remote="8890dev" />
-  <!-- project path="device/samsung/hero-common" name="android_device_samsung_hero-common" remote="8890dev" / -->
+  <project path="device/samsung/hero-common" name="android_device_samsung_hero-common" remote="8890dev" />
   <project path="device/samsung/herolte" name="android_device_samsung_herolte" remote="8890dev" revision="Slim-N" />
   <project path="device/samsung/hero2lte" name="android_device_samsung_hero2lte" remote="8890dev" revision="Slim-N" />
 
